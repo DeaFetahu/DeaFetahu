@@ -16,5 +16,5 @@ Skills
 </p>
 
 
-###- 📫 How to reach me: deafetahu2@gmail.com
+### - 📫 How to reach me: deafetahu2@gmail.com
 
