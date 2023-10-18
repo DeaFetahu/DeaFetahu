@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Dea Fetahu and I am a developer in the making !
+### My name is Dea Fetahu and I am a web developer in the making !
 
 🌱 I’m currently learning ASP.NET
 
