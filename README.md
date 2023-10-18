@@ -16,8 +16,6 @@ Skills
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/ASP.NET%20MVC-%2300f.svg?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET MVC" />
   <img src="https://img.shields.io/badge/Agile%20Scrum-%2300f.svg?style=for-the-badge&logoColor=white" alt="Agile Scrum" />
-
-
 </p>
 
 
