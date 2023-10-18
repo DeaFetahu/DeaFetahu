@@ -2,9 +2,9 @@
 
 ### My name is Dea Fetahu and I am a developer in the making !
 
-- 🌱 I’m currently learning ASP.NET
+🌱 I’m currently learning ASP.NET
 
-Skills
+### Skills
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
