@@ -2,7 +2,7 @@
 
 ### My name is Dea Fetahu and I am a web developer in the making !
 
-🌱 I’m currently learning ASP.NET
+🌱 I’m currently learning ASP.NET Core
 
 ### Skills
 <p align="left">
